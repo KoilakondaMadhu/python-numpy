@@ -1,3 +1,6 @@
+# numpy. full()
+
+
 import numpy as np  # Import the NumPy library and use the alias np for convenience
 
 # Create a 2D array (matrix) with dimensions 3x4, filled with the value 5
